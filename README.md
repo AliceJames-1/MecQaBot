@@ -1,4 +1,2 @@
-# Mobile_Robotics
-Public Repo for Mobile Robotics Projects, Blogs and Tutorials.
-
-Test
+# Mobile Robotics and Wireless Mechatronics
+Public Repo for Mobile Robotics and Wireless Mechatronics Projects, Blogs and Tutorials at Macquarie University, Sydney, Australia.
