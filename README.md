@@ -1,2 +1,2 @@
-# Mobile Robotics and Wireless Mechatronics
+# MecQaBot
 Public Repo for Mobile Robotics and Wireless Mechatronics Projects, Blogs and Tutorials at Macquarie University, Sydney, Australia.
